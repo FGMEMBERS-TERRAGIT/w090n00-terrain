@@ -1,0 +1,5 @@
+OBJECT_BASE 1595548.btg
+OBJECT MPDA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -82.441580 8.383548 10.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -82.428376 8.398455 25.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -82.436115 8.391870 15.0 0.00
